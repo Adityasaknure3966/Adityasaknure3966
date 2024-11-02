@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Aditya Saknure</h1>
 <h3 align="center">Final-year MCA student with a strong foundation in Java and cybersecurity, backed by relevant certifications and hands-on expertise.</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Farifinhabibi%2Farifinhabibi&psig=AOvVaw1eTGpAE1ULzQUvNSBeAtz4&ust=1730621081572000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOiTz6CYvYkDFQAAAAAdAAAAABAJhttps://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbTQ3eTZCZGJIQzdmbEk2Z3hyemp0V1lSNTJIQXxBQ3Jtc0tsWUxfNzFyMWdSMXRyb2dqOWI4Q1RhazRyX3dmYWk3bFUtSTJKaGVBeDRNdUhta2d1Um5lVi1zVmFmUl9TSkU3UGNEcldpWlFPTFJ6bjA2aTY0bXNYbzFBODJVN1Rpb2ZnS1Q1RHREVU16V3hweElvbw&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasaknure3966&label=Profile%20views&color=0e75b6&style=flat" alt="adityasaknure3966" /> </p>
 
 - 💬 Ask me about **Java, Cyber Security, Penetration Testing**
